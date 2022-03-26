@@ -1,0 +1,16 @@
+{
+    "name": "Chess.com To Lichess Analysis",
+    "description": "Chess.com To Lichess Analysis",
+    "version": "1.0",
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": [
+                "*://www.chess.com/*"
+            ],
+            "js": [
+                "content.js"
+            ]
+        }
+    ]
+}
