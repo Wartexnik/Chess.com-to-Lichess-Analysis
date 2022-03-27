@@ -1,5 +1,5 @@
 # Chess.com to Lichess Analysis
- Chrome extenstion which allows for one-click import and analysis of a Chess.com game to Lichess.  
+ Chrome extension which allows for one-click import and analysis of a Chess.com game to Lichess.  
  
  Prerequisites:  
  1. Get your personal Lichess API access token (https://lichess.org/api).
